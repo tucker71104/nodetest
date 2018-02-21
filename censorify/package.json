@@ -1,0 +1,8 @@
+{
+"author": "Tiffany Watson",
+"name": "censorify",
+"version": "0.1.1",
+"description": "Censors words out of text", "main": "your js file name", "dependencies": {},
+"engines": {
+"node": "*" }
+}
